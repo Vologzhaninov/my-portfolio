@@ -1,1 +1,1 @@
-Portfolio website example. Directory with images.
+A directory for images, along with a Readme.md
